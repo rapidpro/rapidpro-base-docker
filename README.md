@@ -11,4 +11,6 @@ For RapidPro v3 builds use: `rapidpro/rapidpro-base:v3`
 
 For RapidPro v4 builds use: `rapidpro/rapidpro-base:v4`
 
+For RapidPro v6 builds use: `rapidpro/rapidpro-base:v6`
+
 `rapidpro-base:latest` still points at v3 for backwards compatibility but consider it deprecated.
